@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto';
+    font-family: 'Roboto', monospace;
 
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 
 }
@@ -30,7 +30,7 @@ body {
     display: flex;
     list-style: none;
     width: 400px;
-    justify-content: space-around;
+    justify-content: space-between; 
     align-items: center;
 }
 
