@@ -44,8 +44,8 @@ body {
 }
 
 .banner {
-    background-image: url('img/bg-jelly-fish-para_outras_pags.png');
-    background-size: cover;
+   background-image: url('img/bg-jelly-fish-para_outras_pags.png');
+    background-size: cover; 
 }
 
 .banner .container {
@@ -118,7 +118,7 @@ body {
     background-color: #e5e5e5;
     color: #e6005a;
     width: 400px;
-    height: 350px;
+    height:410px;
     display: flex;
     flex-direction: column;
     align-items: center;
